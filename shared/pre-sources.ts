@@ -157,6 +157,7 @@ export const originSources = {
   column: "world",
   color: "blue",
   home: "https://www.reuters.com/world/china",
+  interval: Time.Common,
 },
 "caixin": {
   name: "财新网",
@@ -164,6 +165,7 @@ export const originSources = {
   column: "china",
   color: "red",
   home: "https://www.caixin.com",
+  interval: Time.Common,
 },
   "pcbeta": {
     name: "远景论坛",
