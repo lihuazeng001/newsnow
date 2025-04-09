@@ -350,6 +350,13 @@ export const originSources = {
     type: "hottest",
     home: "https://www.smzdm.com",
   },
+  "36kr": {
+  name: "36氪",
+  type: "realtime",
+  column: "tech",
+  color: "blue",
+  home: "https://36kr.com",
+},
   "nowcoder": {
     name: "牛客",
     column: "china",
