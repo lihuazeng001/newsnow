@@ -151,6 +151,20 @@ export const originSources = {
     interval: Time.Common,
     home: "https://china.cankaoxiaoxi.com",
   },
+  "reuters": {
+  name: "路透中文",
+  type: "realtime",
+  column: "world",
+  color: "blue",
+  home: "https://www.reuters.com/world/china",
+},
+"caixin": {
+  name: "财新网",
+  type: "realtime",
+  column: "china",
+  color: "red",
+  home: "https://www.caixin.com",
+},
   "pcbeta": {
     name: "远景论坛",
     color: "blue",
